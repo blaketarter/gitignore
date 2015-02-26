@@ -19,9 +19,13 @@ logs
 
 # Sass Stuff
 .sass-cache
+*.css.map
 
 # Mac folder config
 .DS_Store
 .Spotlight-V100
 .Trashes
 ._*
+
+# No one wants tmp stuff
+tmp
